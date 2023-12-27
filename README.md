@@ -1,8 +1,5 @@
-# Optimus
+![Optimus](https://github.com/Abbhiishek/optimus/assets/86338762/7f626d4e-7768-450a-ab46-073c835efc15)
 
-
-
-![image](https://github.com/Abbhiishek/optimus/assets/86338762/2cbbe9bc-e793-4241-8798-68b1134f6aaf)
 
 <a alt="Nx logo" href="https://nx.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="45"></a>
 
